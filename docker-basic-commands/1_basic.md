@@ -1,5 +1,3 @@
-##Docker Introduction
-
 ## Task 1
 
 Check the version of installed docker version.

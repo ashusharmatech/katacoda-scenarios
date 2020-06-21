@@ -1,5 +1,3 @@
-##Docker Images
-
 ## Task 1
 List all the images available in local repository
 

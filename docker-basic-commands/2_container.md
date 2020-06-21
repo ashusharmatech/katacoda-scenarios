@@ -1,5 +1,3 @@
-##Docker Containers
-
 ## Task 1
 Run a container using the _redis_ image
 
