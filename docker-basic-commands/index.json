@@ -16,10 +16,6 @@
       {
         "title": "Docker Images Commands",
         "text": "3_images.md"
-      },
-      {
-        "title": "Step 4 - Using katacoda CLI to add existing scenarios to a course",
-        "text": "step4.md"
       }
     ],
     "intro": {
