@@ -1,10 +1,12 @@
-This is your first step.
+Docker
 
-## Task
+## Task 1
 
-1. Check the version of installed docker version.
-
-`docker --version`{{execute}}
+Check the version of installed docker version.
 
 `docker --version`{{execute}}
+
+`docker -v`{{execute}}
+
+## Task 2
 
