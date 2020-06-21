@@ -4,10 +4,24 @@
   "difficulty": "beginner",
   "time": "15 minutes",
   "details": {
-    "steps": [{
-      "title": "Step 1 - Run Command",
-      "text": "step1.md"
-    }],
+    "steps": [
+      {
+        "title": "Docker Basic Commands",
+        "text": "1_basic.md"
+      },
+      {
+        "title": "Docker Container Commands",
+        "text": "2_container.md"
+      },
+      {
+        "title": "Docker Images Commands",
+        "text": "3_images.md"
+      },
+      {
+        "title": "Step 4 - Using katacoda CLI to add existing scenarios to a course",
+        "text": "step4.md"
+      }
+    ],
     "intro": {
       "text": "intro.md",
       "credits": ""
