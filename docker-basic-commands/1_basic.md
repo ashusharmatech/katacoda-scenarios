@@ -1,6 +1,6 @@
 ## Task 1
 
-Check the version of installed docker version.
+Check the version of the installed docker version.
 
 `docker --version`{{execute}}
 
@@ -15,10 +15,3 @@ Check the running containers:
 Check the available images:
 
 `docker images`{{execute}}
-
-## Task 3
-Check the available images:
-
-`docker images`{{execute}}
-
-
